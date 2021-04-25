@@ -11,8 +11,6 @@ Some of my interests are:
  - 🖌 web design;
  - 🏠 Wemos IoT application develop;
  - and more...
-<br /> 
-
 ### ⭐ My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomocerre&show_icons=true&theme=default)
 <!-- [![Stats](https://github-stats-alpha.vercel.app/api/?username=giacomocerre&cc=f6f6f6&tc=D93539&ic=D93539 "Stats")](https://github.com/cachecleanerjeet "Stats")<br> -->
