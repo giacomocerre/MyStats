@@ -11,15 +11,7 @@ Some of my interests are:
  - 🖌 web design;
  - 🏠 Wemos IoT application develop;
  - and more...
-<br />
-
-### 🔥 Languages and Frameworks:
-<code><img height="20" src="./img/javascript.png"></code>
-<code><img height="20" src="./img/typescript.png"></code>
-<code><img height="20" src="./img/python.png"></code>
-<code><img height="20" src="./img/java.png"></code>
-<code><img height="20" src="./img/angular.png"></code>
-<code><img height="20" src="./img/react.png"></code>   
+<br /> 
 
 ### ⭐ My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomocerre&show_icons=true&theme=default)
