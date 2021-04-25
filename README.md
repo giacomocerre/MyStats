@@ -3,8 +3,14 @@
 
 ## 👋 Hi there, I'm Giacomo Cerretini!
 
-I am a graduate student in humanistic computer science at the University of Pisa.
-I like to develop web applications and delve into all kinds of topics and technological languages ​​for development..
+I am a graduate student in digital humanities at the University of Pisa.
+Some of my interests are:
+ - 👨‍💻 develop web applications and delve into all kinds of topics and technological languages ​​for development;
+ - 💻 machine learning and data scientist projects;
+ - 📊 data streams and data visualization;
+ - 🖌 web design;
+ - 🏠 Wemos IoT application develop;
+ - and more...
 <br />
 
 ### 🔥 Languages and Frameworks:
